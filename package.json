@@ -1,6 +1,6 @@
 {
   "name": "@logistics/localize-with-spreadsheet",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create a localization file in Android or iOS format from a Google Spreadsheet",
   "author": "xavier.hainaux@gmail.com",
   "publishConfig": {
@@ -12,10 +12,10 @@
   },
   "main": "index.js",
   "dependencies": {
-    "q": "0.9.2",
-    "mkpath": "0.1.0",
     "google-spreadsheet": "2.0.4",
-    "googleclientlogin": "0.2.8"
+    "googleclientlogin": "0.2.8",
+    "mkpath": "0.1.0",
+    "q": "0.9.2"
   },
   "devDependencies": {
     "nodeunit": "0.8.1"
