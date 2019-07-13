@@ -1,3 +1,11 @@
-.idea/
 samples/rooster-translations
 samples/rooster.js
+package-lock.json
+.yalc/
+yalc.lock
+.DS_Store
+npm-debug.log
+yarn-error.log
+.idea
+.vscode
+node_modules
